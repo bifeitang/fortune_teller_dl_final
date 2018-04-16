@@ -1,4 +1,4 @@
-# fortuneteller-final-coco
+# fortune_teller_dl_final
 
 ## Reference Git
 - [Basic](https://github.com/ruotianluo/ImageCaptioning.pytorch)
